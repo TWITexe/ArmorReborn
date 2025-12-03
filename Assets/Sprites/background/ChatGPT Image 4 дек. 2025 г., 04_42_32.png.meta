@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 02afba7bd559f5e49a0b88a40ae9b332
+guid: 82ccfa617e090c64ab423521d9e26448
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5608819318807225731
-    second: background 1_0
+      213: 3745689802381350555
+    second: "ChatGPT Image 4 \u0434\u0435\u043A. 2025 \u0433., 04_42_32_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 50
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -139,7 +139,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: background 1_0
+      name: "ChatGPT Image 4 \u0434\u0435\u043A. 2025 \u0433., 04_42_32_0"
       rect:
         serializedVersion: 2
         x: 0
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7a952ddb887922b0800000000000000
-      internalID: -5608819318807225731
+      spriteID: b965ebd970d5bf330800000000000000
+      internalID: 3745689802381350555
       vertices: []
       indices: 
       edges: []
@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "ChatGPT Image 4 \u0434\u0435\u043A. 2025 \u0433., 04_42_32_0": 3745689802381350555
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
